@@ -1,9 +1,12 @@
+import com.ziyu.minispring.annotation.Service;
+
 /**
  * @ClassName Example
  * @Date
  * @Author
  * @Description TODO
  **/
+@Service()
 public class Example {
 
     private String value;
