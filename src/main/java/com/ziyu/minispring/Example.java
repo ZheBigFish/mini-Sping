@@ -1,3 +1,5 @@
+package com.ziyu.minispring;
+
 import com.ziyu.minispring.annotation.Service;
 
 /**
@@ -15,7 +17,9 @@ public class Example {
         this.value = value;
     }
 
-    public void example(){
+    public Example() { }
+
+    public void out(){
         System.out.println(value);
     }
 
