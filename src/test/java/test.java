@@ -1,7 +1,6 @@
-import com.ziyu.minispring.Example;
-import com.ziyu.minispring.bean.Bean;
-import com.ziyu.minispring.factory.BeanFactory;
-import com.ziyu.minispring.scanner.Scanner;
+import com.ziyu.minispring.model.service.Example;
+import com.ziyu.minispring.spring.factory.BeanFactory;
+import com.ziyu.minispring.spring.scanner.Scanner;
 import org.junit.Test;
 
 /**

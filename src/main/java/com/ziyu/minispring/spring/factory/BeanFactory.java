@@ -1,6 +1,6 @@
-package com.ziyu.minispring.factory;
+package com.ziyu.minispring.spring.factory;
 
-import com.ziyu.minispring.bean.Bean;
+import com.ziyu.minispring.spring.bean.Bean;
 
 import java.util.HashMap;
 import java.util.Map;

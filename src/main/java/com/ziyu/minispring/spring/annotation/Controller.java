@@ -1,4 +1,4 @@
-package com.ziyu.minispring.annotation;
+package com.ziyu.minispring.spring.annotation;
 
 import java.lang.annotation.*;
 

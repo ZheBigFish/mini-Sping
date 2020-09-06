@@ -1,4 +1,4 @@
-package com.ziyu.minispring.bean;
+package com.ziyu.minispring.spring.bean;
 
 import lombok.Data;
 

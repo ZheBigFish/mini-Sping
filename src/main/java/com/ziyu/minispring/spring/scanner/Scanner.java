@@ -1,9 +1,9 @@
-package com.ziyu.minispring.scanner;
+package com.ziyu.minispring.spring.scanner;
 
-import com.ziyu.minispring.annotation.Controller;
-import com.ziyu.minispring.annotation.Service;
-import com.ziyu.minispring.bean.Bean;
-import com.ziyu.minispring.factory.BeanFactory;
+import com.ziyu.minispring.spring.annotation.Controller;
+import com.ziyu.minispring.spring.annotation.Service;
+import com.ziyu.minispring.spring.bean.Bean;
+import com.ziyu.minispring.spring.factory.BeanFactory;
 
 import java.lang.annotation.Annotation;
 

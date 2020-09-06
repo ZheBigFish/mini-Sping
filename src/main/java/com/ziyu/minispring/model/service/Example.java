@@ -1,6 +1,7 @@
-package com.ziyu.minispring;
+package com.ziyu.minispring.model.service;
 
-import com.ziyu.minispring.annotation.Service;
+import com.ziyu.minispring.spring.annotation.Autowired;
+import com.ziyu.minispring.spring.annotation.Service;
 
 /**
  * @ClassName Example
@@ -8,8 +9,11 @@ import com.ziyu.minispring.annotation.Service;
  * @Author
  * @Description TODO
  **/
-@Service()
+@Service
 public class Example {
+
+    @Autowired
+    private Father father;
 
     private String value;
 

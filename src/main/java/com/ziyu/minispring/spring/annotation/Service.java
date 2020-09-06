@@ -1,4 +1,4 @@
-package com.ziyu.minispring.annotation;
+package com.ziyu.minispring.spring.annotation;
 
 import java.lang.annotation.*;
 
@@ -8,6 +8,6 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Service {
 
-    String beanName() default "className";
+    String beanName() default "";
 
 }
